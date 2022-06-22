@@ -21,3 +21,10 @@ $RECYCLE.BIN/
 # =========================
 # Operating System Files
 # =========================
+
+# IDE files
+build/
+nbproject/
+test/
+build.xml
+manifest.mf
